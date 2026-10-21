@@ -20,4 +20,3 @@ pip install -r requirements.txt
 ```
 
 
-postgresql://siamtrip:MTbeRS1mXkGAVHMiAaYcGYh5akL4FoRB@dpg-dbbm6dgae00c7399mrv0-a.ohio-postgres.render.com/agentmemory_vl40
